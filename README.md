@@ -1,4 +1,4 @@
-Softverove-inzinierstvo
+Softvérové inžinierstvo
 ========================
 
 Projekt UML na predmet Softvérové inžinierstvo 1
